@@ -13,6 +13,8 @@ build the image localy
 docker compose up .
 
 if dont want to use docker compose
+
+
  docker build -t my_fastapi_app .     
  docker run -d -p 8000:80 my_fastapi_app
 
