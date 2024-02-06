@@ -1,2 +1,0 @@
-# sparkbeyond
-sparkbeyond
