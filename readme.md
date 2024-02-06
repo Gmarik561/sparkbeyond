@@ -23,6 +23,9 @@ to see the result of the most common words in the articles
 http://localhost:8000/common-words/?folder_path=/app/articles&num_articles=4&top_n=10
 
 
+kubectl apply -f deployment.yaml -f service.yaml -f ingress.yaml
+
+
 
 
 
